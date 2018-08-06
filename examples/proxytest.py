@@ -1,5 +1,5 @@
 import requests
-from proxypool.setting import TEST_URL
+from ProxyPool.proxypool.setting import TEST_URL
 
 proxy = '96.9.90.90:8080'
 
